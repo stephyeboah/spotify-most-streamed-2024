@@ -102,7 +102,7 @@ spotify-most-streamed-2024/
    ```
 3. Open `Spotify-project.twbx` with Tableau.
 
-> Alternatively, view the full analysis in the [PDF report](./report/Features_of_the_most_streamed_songs_of_2024.pdf).
+> Alternatively, view the full analysis in the [PDF report](Features_of_the_most_streamed_songs_of_2024.pdf).
 
 ---
 
