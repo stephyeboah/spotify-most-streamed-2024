@@ -108,7 +108,8 @@ spotify-most-streamed-2024/
 
 ## 📷 Dashboard Preview
 
-> *(Add screenshots of your Tableau dashboards here)*
+<img width="1422" height="837" alt="image" src="https://github.com/user-attachments/assets/6dad91ae-341e-4474-b6c3-beff227569b0" />
+
 
 ---
 
